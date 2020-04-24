@@ -7,4 +7,4 @@ applications:
   domain: cfapps.io 
   env:
     GOVERSION: go1.14.1
-    GOPACKAGENAME: /gowebprog/ch02/chitchat/data
+    GOPACKAGENAME: github.com/macaulay99/chitchat
